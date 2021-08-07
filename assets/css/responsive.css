@@ -73,6 +73,9 @@
         color: #fff;
         padding: 5px 41px;
     }
+    #slider .text-content {
+        display: none;
+    }
     #content .member-img {
         width: 60%;
     }
